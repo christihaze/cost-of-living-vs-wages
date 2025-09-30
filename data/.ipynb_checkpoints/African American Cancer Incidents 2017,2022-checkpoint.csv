@@ -1,0 +1,432 @@
+"Notes","Cancer Sites","Cancer Sites Code","Year","Year Code","Age Groups","Age Groups Code","Sex","Sex Code","Race","Race Code",Count,Population,Crude Rate
+,"All Invasive Cancer Sites Combined","0","2017","2017","25-29 years","25-29","Female","F","Black or African American","2054-5",34,50907,66.8
+,"All Invasive Cancer Sites Combined","0","2017","2017","30-34 years","30-34","Female","F","Black or African American","2054-5",45,42564,105.7
+,"All Invasive Cancer Sites Combined","0","2017","2017","30-34 years","30-34","Male","M","Black or African American","2054-5",24,38512,62.3
+,"All Invasive Cancer Sites Combined","0","2017","2017","35-39 years","35-39","Female","F","Black or African American","2054-5",55,41897,131.3
+,"All Invasive Cancer Sites Combined","0","2017","2017","35-39 years","35-39","Male","M","Black or African American","2054-5",37,37032,99.9
+,"All Invasive Cancer Sites Combined","0","2017","2017","40-44 years","40-44","Female","F","Black or African American","2054-5",105,37665,278.8
+,"All Invasive Cancer Sites Combined","0","2017","2017","40-44 years","40-44","Male","M","Black or African American","2054-5",50,32916,151.9
+,"All Invasive Cancer Sites Combined","0","2017","2017","45-49 years","45-49","Female","F","Black or African American","2054-5",150,39034,384.3
+,"All Invasive Cancer Sites Combined","0","2017","2017","45-49 years","45-49","Male","M","Black or African American","2054-5",112,33945,329.9
+,"All Invasive Cancer Sites Combined","0","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",236,39060,604.2
+,"All Invasive Cancer Sites Combined","0","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",232,33970,683.0
+,"All Invasive Cancer Sites Combined","0","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",337,39325,857.0
+,"All Invasive Cancer Sites Combined","0","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",429,33402,1284.4
+,"All Invasive Cancer Sites Combined","0","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",427,35398,1206.3
+,"All Invasive Cancer Sites Combined","0","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",544,28397,1915.7
+,"All Invasive Cancer Sites Combined","0","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",350,26789,1306.5
+,"All Invasive Cancer Sites Combined","0","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",561,20758,2702.6
+,"All Invasive Cancer Sites Combined","0","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",257,16394,1567.6
+,"All Invasive Cancer Sites Combined","0","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",338,12150,2781.9
+,"All Invasive Cancer Sites Combined","0","2017","2017","75-79 years","75-79","Female","F","Black or African American","2054-5",187,11071,1689.1
+,"All Invasive Cancer Sites Combined","0","2017","2017","75-79 years","75-79","Male","M","Black or African American","2054-5",209,6986,2991.7
+,"All Invasive Cancer Sites Combined","0","2017","2017","80-84 years","80-84","Female","F","Black or African American","2054-5",133,7604,1749.1
+,"All Invasive Cancer Sites Combined","0","2017","2017","80-84 years","80-84","Male","M","Black or African American","2054-5",110,3966,2773.6
+,"All Invasive Cancer Sites Combined","0","2017","2017","85+ years","85+","Female","F","Black or African American","2054-5",157,7705,2037.6
+,"All Invasive Cancer Sites Combined","0","2017","2017","85+ years","85+","Male","M","Black or African American","2054-5",100,2919,3425.8
+,"All Invasive Cancer Sites Combined","0","2022","2022","25-29 years","25-29","Female","F","Black or African American","2054-5",23,49264,46.7
+,"All Invasive Cancer Sites Combined","0","2022","2022","30-34 years","30-34","Female","F","Black or African American","2054-5",45,50689,88.8
+,"All Invasive Cancer Sites Combined","0","2022","2022","30-34 years","30-34","Male","M","Black or African American","2054-5",21,46996,44.7
+,"All Invasive Cancer Sites Combined","0","2022","2022","35-39 years","35-39","Female","F","Black or African American","2054-5",64,42054,152.2
+,"All Invasive Cancer Sites Combined","0","2022","2022","35-39 years","35-39","Male","M","Black or African American","2054-5",26,37309,69.7
+,"All Invasive Cancer Sites Combined","0","2022","2022","40-44 years","40-44","Female","F","Black or African American","2054-5",101,41329,244.4
+,"All Invasive Cancer Sites Combined","0","2022","2022","40-44 years","40-44","Male","M","Black or African American","2054-5",58,35150,165.0
+,"All Invasive Cancer Sites Combined","0","2022","2022","45-49 years","45-49","Female","F","Black or African American","2054-5",156,36780,424.1
+,"All Invasive Cancer Sites Combined","0","2022","2022","45-49 years","45-49","Male","M","Black or African American","2054-5",91,31538,288.5
+,"All Invasive Cancer Sites Combined","0","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",212,37993,558.0
+,"All Invasive Cancer Sites Combined","0","2022","2022","50-54 years","50-54","Male","M","Black or African American","2054-5",187,32798,570.2
+,"All Invasive Cancer Sites Combined","0","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",298,37794,788.5
+,"All Invasive Cancer Sites Combined","0","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",327,31661,1032.8
+,"All Invasive Cancer Sites Combined","0","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",406,36968,1098.2
+,"All Invasive Cancer Sites Combined","0","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",464,30328,1529.9
+,"All Invasive Cancer Sites Combined","0","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",417,32490,1283.5
+,"All Invasive Cancer Sites Combined","0","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",572,24657,2319.8
+,"All Invasive Cancer Sites Combined","0","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",360,23622,1524.0
+,"All Invasive Cancer Sites Combined","0","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",411,16883,2434.4
+,"All Invasive Cancer Sites Combined","0","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",242,13738,1761.5
+,"All Invasive Cancer Sites Combined","0","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",220,9194,2392.9
+,"All Invasive Cancer Sites Combined","0","2022","2022","80-84 years","80-84","Female","F","Black or African American","2054-5",114,8381,1360.2
+,"All Invasive Cancer Sites Combined","0","2022","2022","80-84 years","80-84","Male","M","Black or African American","2054-5",94,4579,2052.8
+,"All Invasive Cancer Sites Combined","0","2022","2022","85+ years","85+","Female","F","Black or African American","2054-5",118,7770,1518.7
+,"All Invasive Cancer Sites Combined","0","2022","2022","85+ years","85+","Male","M","Black or African American","2054-5",74,3110,2379.4
+,"Oral Cavity and Pharynx","20010-20100","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",21,33970,61.8
+,"Digestive System","21010-21130","2017","2017","40-44 years","40-44","Female","F","Black or African American","2054-5",22,37665,58.4
+,"Digestive System","21010-21130","2017","2017","45-49 years","45-49","Female","F","Black or African American","2054-5",24,39034,61.5
+,"Digestive System","21010-21130","2017","2017","45-49 years","45-49","Male","M","Black or African American","2054-5",32,33945,94.3
+,"Digestive System","21010-21130","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",43,39060,110.1
+,"Digestive System","21010-21130","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",48,33970,141.3
+,"Digestive System","21010-21130","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",64,39325,162.7
+,"Digestive System","21010-21130","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",94,33402,281.4
+,"Digestive System","21010-21130","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",77,35398,217.5
+,"Digestive System","21010-21130","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",107,28397,376.8
+,"Digestive System","21010-21130","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",58,26789,216.5
+,"Digestive System","21010-21130","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",93,20758,448.0
+,"Digestive System","21010-21130","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",61,16394,372.1
+,"Digestive System","21010-21130","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",62,12150,510.3
+,"Digestive System","21010-21130","2017","2017","75-79 years","75-79","Female","F","Black or African American","2054-5",40,11071,361.3
+,"Digestive System","21010-21130","2017","2017","75-79 years","75-79","Male","M","Black or African American","2054-5",44,6986,629.8
+,"Digestive System","21010-21130","2017","2017","80-84 years","80-84","Female","F","Black or African American","2054-5",31,7604,407.7
+,"Digestive System","21010-21130","2017","2017","80-84 years","80-84","Male","M","Black or African American","2054-5",30,3966,756.4
+,"Digestive System","21010-21130","2017","2017","85+ years","85+","Female","F","Black or African American","2054-5",34,7705,441.3
+,"Digestive System","21010-21130","2017","2017","85+ years","85+","Male","M","Black or African American","2054-5",18,2919,616.6
+,"Digestive System","21010-21130","2022","2022","40-44 years","40-44","Male","M","Black or African American","2054-5",16,35150,45.5
+,"Digestive System","21010-21130","2022","2022","45-49 years","45-49","Female","F","Black or African American","2054-5",22,36780,59.8
+,"Digestive System","21010-21130","2022","2022","45-49 years","45-49","Male","M","Black or African American","2054-5",20,31538,63.4
+,"Digestive System","21010-21130","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",44,37993,115.8
+,"Digestive System","21010-21130","2022","2022","50-54 years","50-54","Male","M","Black or African American","2054-5",43,32798,131.1
+,"Digestive System","21010-21130","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",52,37794,137.6
+,"Digestive System","21010-21130","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",84,31661,265.3
+,"Digestive System","21010-21130","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",72,36968,194.8
+,"Digestive System","21010-21130","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",106,30328,349.5
+,"Digestive System","21010-21130","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",71,32490,218.5
+,"Digestive System","21010-21130","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",112,24657,454.2
+,"Digestive System","21010-21130","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",74,23622,313.3
+,"Digestive System","21010-21130","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",71,16883,420.5
+,"Digestive System","21010-21130","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",45,13738,327.6
+,"Digestive System","21010-21130","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",45,9194,489.4
+,"Digestive System","21010-21130","2022","2022","80-84 years","80-84","Female","F","Black or African American","2054-5",27,8381,322.2
+,"Digestive System","21010-21130","2022","2022","80-84 years","80-84","Male","M","Black or African American","2054-5",21,4579,458.6
+,"Digestive System","21010-21130","2022","2022","85+ years","85+","Female","F","Black or African American","2054-5",24,7770,308.9
+,"Digestive System","21010-21130","2022","2022","85+ years","85+","Male","M","Black or African American","2054-5",18,3110,578.8
+,"Stomach","21020","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",16,23622,67.7
+,"Colon and Rectum","21041-21052","2017","2017","45-49 years","45-49","Male","M","Black or African American","2054-5",20,33945,58.9
+,"Colon and Rectum","21041-21052","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",29,39060,74.2
+,"Colon and Rectum","21041-21052","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",25,33970,73.6
+,"Colon and Rectum","21041-21052","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",35,39325,89.0
+,"Colon and Rectum","21041-21052","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",45,33402,134.7
+,"Colon and Rectum","21041-21052","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",35,35398,98.9
+,"Colon and Rectum","21041-21052","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",42,28397,147.9
+,"Colon and Rectum","21041-21052","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",23,26789,85.9
+,"Colon and Rectum","21041-21052","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",38,20758,183.1
+,"Colon and Rectum","21041-21052","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",38,16394,231.8
+,"Colon and Rectum","21041-21052","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",25,12150,205.8
+,"Colon and Rectum","21041-21052","2017","2017","80-84 years","80-84","Male","M","Black or African American","2054-5",18,3966,453.9
+,"Colon and Rectum","21041-21052","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",24,37993,63.2
+,"Colon and Rectum","21041-21052","2022","2022","50-54 years","50-54","Male","M","Black or African American","2054-5",25,32798,76.2
+,"Colon and Rectum","21041-21052","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",18,37794,47.6
+,"Colon and Rectum","21041-21052","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",47,31661,148.4
+,"Colon and Rectum","21041-21052","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",27,36968,73.0
+,"Colon and Rectum","21041-21052","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",31,30328,102.2
+,"Colon and Rectum","21041-21052","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",29,32490,89.3
+,"Colon and Rectum","21041-21052","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",41,24657,166.3
+,"Colon and Rectum","21041-21052","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",20,23622,84.7
+,"Colon and Rectum","21041-21052","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",30,16883,177.7
+,"Colon and Rectum","21041-21052","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",19,13738,138.3
+,"Colon and Rectum","21041-21052","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",17,9194,184.9
+,"Colon and Rectum","21041-21052","2022","2022","80-84 years","80-84","Female","F","Black or African American","2054-5",16,8381,190.9
+,"Colon excluding Rectum","21041-21049","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",18,33970,53.0
+,"Colon excluding Rectum","21041-21049","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",29,39325,73.7
+,"Colon excluding Rectum","21041-21049","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",32,33402,95.8
+,"Colon excluding Rectum","21041-21049","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",27,35398,76.3
+,"Colon excluding Rectum","21041-21049","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",29,28397,102.1
+,"Colon excluding Rectum","21041-21049","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",33,20758,159.0
+,"Colon excluding Rectum","21041-21049","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",32,16394,195.2
+,"Colon excluding Rectum","21041-21049","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",16,12150,131.7
+,"Colon excluding Rectum","21041-21049","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",16,37993,42.1
+,"Colon excluding Rectum","21041-21049","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",33,31661,104.2
+,"Colon excluding Rectum","21041-21049","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",23,36968,62.2
+,"Colon excluding Rectum","21041-21049","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",21,30328,69.2
+,"Colon excluding Rectum","21041-21049","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",24,32490,73.9
+,"Colon excluding Rectum","21041-21049","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",35,24657,141.9
+,"Colon excluding Rectum","21041-21049","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",24,16883,142.2
+,"Colon excluding Rectum","21041-21049","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",16,13738,116.5
+,"Liver and Intrahepatic Bile Duct","21071-21072","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",19,33402,56.9
+,"Liver and Intrahepatic Bile Duct","21071-21072","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",28,28397,98.6
+,"Liver and Intrahepatic Bile Duct","21071-21072","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",21,20758,101.2
+,"Liver and Intrahepatic Bile Duct","21071-21072","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",23,30328,75.8
+,"Liver and Intrahepatic Bile Duct","21071-21072","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",36,24657,146.0
+,"Liver","21071","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",18,33402,53.9
+,"Liver","21071","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",26,28397,91.6
+,"Liver","21071","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",21,20758,101.2
+,"Liver","21071","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",21,30328,69.2
+,"Liver","21071","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",34,24657,137.9
+,"Pancreas","21100","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",16,28397,56.3
+,"Pancreas","21100","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",16,26789,59.7
+,"Pancreas","21100","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",24,36968,64.9
+,"Pancreas","21100","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",25,30328,82.4
+,"Pancreas","21100","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",18,32490,55.4
+,"Pancreas","21100","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",18,23622,76.2
+,"Respiratory System","22010-22060","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",20,39060,51.2
+,"Respiratory System","22010-22060","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",30,33970,88.3
+,"Respiratory System","22010-22060","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",57,39325,144.9
+,"Respiratory System","22010-22060","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",66,33402,197.6
+,"Respiratory System","22010-22060","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",74,35398,209.1
+,"Respiratory System","22010-22060","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",109,28397,383.8
+,"Respiratory System","22010-22060","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",59,26789,220.2
+,"Respiratory System","22010-22060","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",107,20758,515.5
+,"Respiratory System","22010-22060","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",49,16394,298.9
+,"Respiratory System","22010-22060","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",61,12150,502.1
+,"Respiratory System","22010-22060","2017","2017","75-79 years","75-79","Female","F","Black or African American","2054-5",41,11071,370.3
+,"Respiratory System","22010-22060","2017","2017","75-79 years","75-79","Male","M","Black or African American","2054-5",48,6986,687.1
+,"Respiratory System","22010-22060","2017","2017","80-84 years","80-84","Female","F","Black or African American","2054-5",21,7604,276.2
+,"Respiratory System","22010-22060","2017","2017","80-84 years","80-84","Male","M","Black or African American","2054-5",21,3966,529.5
+,"Respiratory System","22010-22060","2017","2017","85+ years","85+","Female","F","Black or African American","2054-5",26,7705,337.4
+,"Respiratory System","22010-22060","2017","2017","85+ years","85+","Male","M","Black or African American","2054-5",19,2919,650.9
+,"Respiratory System","22010-22060","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",27,37794,71.4
+,"Respiratory System","22010-22060","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",42,31661,132.7
+,"Respiratory System","22010-22060","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",70,36968,189.4
+,"Respiratory System","22010-22060","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",75,30328,247.3
+,"Respiratory System","22010-22060","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",61,32490,187.8
+,"Respiratory System","22010-22060","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",93,24657,377.2
+,"Respiratory System","22010-22060","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",54,23622,228.6
+,"Respiratory System","22010-22060","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",86,16883,509.4
+,"Respiratory System","22010-22060","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",47,13738,342.1
+,"Respiratory System","22010-22060","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",46,9194,500.3
+,"Respiratory System","22010-22060","2022","2022","80-84 years","80-84","Female","F","Black or African American","2054-5",18,8381,214.8
+,"Respiratory System","22010-22060","2022","2022","80-84 years","80-84","Male","M","Black or African American","2054-5",23,4579,502.3
+,"Respiratory System","22010-22060","2022","2022","85+ years","85+","Female","F","Black or African American","2054-5",24,7770,308.9
+,"Respiratory System","22010-22060","2022","2022","85+ years","85+","Male","M","Black or African American","2054-5",19,3110,610.9
+,"Lung and Bronchus","22030","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",17,39060,43.5
+,"Lung and Bronchus","22030","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",23,33970,67.7
+,"Lung and Bronchus","22030","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",52,39325,132.2
+,"Lung and Bronchus","22030","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",58,33402,173.6
+,"Lung and Bronchus","22030","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",71,35398,200.6
+,"Lung and Bronchus","22030","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",98,28397,345.1
+,"Lung and Bronchus","22030","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",55,26789,205.3
+,"Lung and Bronchus","22030","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",97,20758,467.3
+,"Lung and Bronchus","22030","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",45,16394,274.5
+,"Lung and Bronchus","22030","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",56,12150,460.9
+,"Lung and Bronchus","22030","2017","2017","75-79 years","75-79","Female","F","Black or African American","2054-5",41,11071,370.3
+,"Lung and Bronchus","22030","2017","2017","75-79 years","75-79","Male","M","Black or African American","2054-5",47,6986,672.8
+,"Lung and Bronchus","22030","2017","2017","80-84 years","80-84","Female","F","Black or African American","2054-5",21,7604,276.2
+,"Lung and Bronchus","22030","2017","2017","80-84 years","80-84","Male","M","Black or African American","2054-5",18,3966,453.9
+,"Lung and Bronchus","22030","2017","2017","85+ years","85+","Female","F","Black or African American","2054-5",25,7705,324.5
+,"Lung and Bronchus","22030","2017","2017","85+ years","85+","Male","M","Black or African American","2054-5",17,2919,582.4
+,"Lung and Bronchus","22030","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",24,37794,63.5
+,"Lung and Bronchus","22030","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",35,31661,110.5
+,"Lung and Bronchus","22030","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",65,36968,175.8
+,"Lung and Bronchus","22030","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",62,30328,204.4
+,"Lung and Bronchus","22030","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",59,32490,181.6
+,"Lung and Bronchus","22030","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",86,24657,348.8
+,"Lung and Bronchus","22030","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",51,23622,215.9
+,"Lung and Bronchus","22030","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",78,16883,462.0
+,"Lung and Bronchus","22030","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",45,13738,327.6
+,"Lung and Bronchus","22030","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",42,9194,456.8
+,"Lung and Bronchus","22030","2022","2022","80-84 years","80-84","Female","F","Black or African American","2054-5",18,8381,214.8
+,"Lung and Bronchus","22030","2022","2022","80-84 years","80-84","Male","M","Black or African American","2054-5",21,4579,458.6
+,"Lung and Bronchus","22030","2022","2022","85+ years","85+","Female","F","Black or African American","2054-5",22,7770,283.1
+,"Lung and Bronchus","22030","2022","2022","85+ years","85+","Male","M","Black or African American","2054-5",18,3110,578.8
+,"Male and Female Breast","26000","2017","2017","30-34 years","30-34","Female","F","Black or African American","2054-5",20,42564,47.0
+,"Male and Female Breast","26000","2017","2017","35-39 years","35-39","Female","F","Black or African American","2054-5",18,41897,43.0
+,"Male and Female Breast","26000","2017","2017","40-44 years","40-44","Female","F","Black or African American","2054-5",48,37665,127.4
+,"Male and Female Breast","26000","2017","2017","45-49 years","45-49","Female","F","Black or African American","2054-5",74,39034,189.6
+,"Male and Female Breast","26000","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",99,39060,253.5
+,"Male and Female Breast","26000","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",117,39325,297.5
+,"Male and Female Breast","26000","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",126,35398,356.0
+,"Male and Female Breast","26000","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",98,26789,365.8
+,"Male and Female Breast","26000","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",55,16394,335.5
+,"Male and Female Breast","26000","2017","2017","75-79 years","75-79","Female","F","Black or African American","2054-5",50,11071,451.6
+,"Male and Female Breast","26000","2017","2017","80-84 years","80-84","Female","F","Black or African American","2054-5",28,7604,368.2
+,"Male and Female Breast","26000","2017","2017","85+ years","85+","Female","F","Black or African American","2054-5",32,7705,415.3
+,"Male and Female Breast","26000","2022","2022","35-39 years","35-39","Female","F","Black or African American","2054-5",24,42054,57.1
+,"Male and Female Breast","26000","2022","2022","40-44 years","40-44","Female","F","Black or African American","2054-5",46,41329,111.3
+,"Male and Female Breast","26000","2022","2022","45-49 years","45-49","Female","F","Black or African American","2054-5",73,36780,198.5
+,"Male and Female Breast","26000","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",78,37993,205.3
+,"Male and Female Breast","26000","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",115,37794,304.3
+,"Male and Female Breast","26000","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",126,36968,340.8
+,"Male and Female Breast","26000","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",125,32490,384.7
+,"Male and Female Breast","26000","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",114,23622,482.6
+,"Male and Female Breast","26000","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",69,13738,502.3
+,"Male and Female Breast","26000","2022","2022","80-84 years","80-84","Female","F","Black or African American","2054-5",33,8381,393.7
+,"Male and Female Breast","26000","2022","2022","85+ years","85+","Female","F","Black or African American","2054-5",30,7770,386.1
+,"Female Breast","26000-Female","2017","2017","30-34 years","30-34","Female","F","Black or African American","2054-5",20,42564,47.0
+,"Female Breast","26000-Female","2017","2017","35-39 years","35-39","Female","F","Black or African American","2054-5",18,41897,43.0
+,"Female Breast","26000-Female","2017","2017","40-44 years","40-44","Female","F","Black or African American","2054-5",48,37665,127.4
+,"Female Breast","26000-Female","2017","2017","45-49 years","45-49","Female","F","Black or African American","2054-5",74,39034,189.6
+,"Female Breast","26000-Female","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",99,39060,253.5
+,"Female Breast","26000-Female","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",117,39325,297.5
+,"Female Breast","26000-Female","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",126,35398,356.0
+,"Female Breast","26000-Female","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",98,26789,365.8
+,"Female Breast","26000-Female","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",55,16394,335.5
+,"Female Breast","26000-Female","2017","2017","75-79 years","75-79","Female","F","Black or African American","2054-5",50,11071,451.6
+,"Female Breast","26000-Female","2017","2017","80-84 years","80-84","Female","F","Black or African American","2054-5",28,7604,368.2
+,"Female Breast","26000-Female","2017","2017","85+ years","85+","Female","F","Black or African American","2054-5",32,7705,415.3
+,"Female Breast","26000-Female","2022","2022","35-39 years","35-39","Female","F","Black or African American","2054-5",24,42054,57.1
+,"Female Breast","26000-Female","2022","2022","40-44 years","40-44","Female","F","Black or African American","2054-5",46,41329,111.3
+,"Female Breast","26000-Female","2022","2022","45-49 years","45-49","Female","F","Black or African American","2054-5",73,36780,198.5
+,"Female Breast","26000-Female","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",78,37993,205.3
+,"Female Breast","26000-Female","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",115,37794,304.3
+,"Female Breast","26000-Female","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",126,36968,340.8
+,"Female Breast","26000-Female","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",125,32490,384.7
+,"Female Breast","26000-Female","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",114,23622,482.6
+,"Female Breast","26000-Female","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",69,13738,502.3
+,"Female Breast","26000-Female","2022","2022","80-84 years","80-84","Female","F","Black or African American","2054-5",33,8381,393.7
+,"Female Breast","26000-Female","2022","2022","85+ years","85+","Female","F","Black or African American","2054-5",30,7770,386.1
+,"Female Genital System","27010-27070","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",27,39060,69.1
+,"Female Genital System","27010-27070","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",36,39325,91.5
+,"Female Genital System","27010-27070","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",60,35398,169.5
+,"Female Genital System","27010-27070","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",60,26789,224.0
+,"Female Genital System","27010-27070","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",27,16394,164.7
+,"Female Genital System","27010-27070","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",26,37993,68.4
+,"Female Genital System","27010-27070","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",34,37794,90.0
+,"Female Genital System","27010-27070","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",58,36968,156.9
+,"Female Genital System","27010-27070","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",70,32490,215.5
+,"Female Genital System","27010-27070","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",54,23622,228.6
+,"Female Genital System","27010-27070","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",26,13738,189.3
+,"Corpus Uteri","27020","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",21,39325,53.4
+,"Corpus Uteri","27020","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",39,35398,110.2
+,"Corpus Uteri","27020","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",43,26789,160.5
+,"Corpus Uteri","27020","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",19,16394,115.9
+,"Corpus Uteri","27020","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",16,37794,42.3
+,"Corpus Uteri","27020","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",34,36968,92.0
+,"Corpus Uteri","27020","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",54,32490,166.2
+,"Corpus Uteri","27020","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",35,23622,148.2
+,"Male Genital System","28010-28040","2017","2017","45-49 years","45-49","Male","M","Black or African American","2054-5",26,33945,76.6
+,"Male Genital System","28010-28040","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",89,33970,262.0
+,"Male Genital System","28010-28040","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",168,33402,503.0
+,"Male Genital System","28010-28040","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",214,28397,753.6
+,"Male Genital System","28010-28040","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",242,20758,1165.8
+,"Male Genital System","28010-28040","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",133,12150,1094.7
+,"Male Genital System","28010-28040","2017","2017","75-79 years","75-79","Male","M","Black or African American","2054-5",64,6986,916.1
+,"Male Genital System","28010-28040","2017","2017","80-84 years","80-84","Male","M","Black or African American","2054-5",28,3966,706.0
+,"Male Genital System","28010-28040","2017","2017","85+ years","85+","Male","M","Black or African American","2054-5",25,2919,856.5
+,"Male Genital System","28010-28040","2022","2022","45-49 years","45-49","Male","M","Black or African American","2054-5",26,31538,82.4
+,"Male Genital System","28010-28040","2022","2022","50-54 years","50-54","Male","M","Black or African American","2054-5",80,32798,243.9
+,"Male Genital System","28010-28040","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",131,31661,413.8
+,"Male Genital System","28010-28040","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",192,30328,633.1
+,"Male Genital System","28010-28040","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",255,24657,1034.2
+,"Male Genital System","28010-28040","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",165,16883,977.3
+,"Male Genital System","28010-28040","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",70,9194,761.4
+,"Male Genital System","28010-28040","2022","2022","80-84 years","80-84","Male","M","Black or African American","2054-5",28,4579,611.5
+,"Prostate","28010","2017","2017","45-49 years","45-49","Male","M","Black or African American","2054-5",23,33945,67.8
+,"Prostate","28010","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",87,33970,256.1
+,"Prostate","28010","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",168,33402,503.0
+,"Prostate","28010","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",214,28397,753.6
+,"Prostate","28010","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",241,20758,1161.0
+,"Prostate","28010","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",132,12150,1086.4
+,"Prostate","28010","2017","2017","75-79 years","75-79","Male","M","Black or African American","2054-5",64,6986,916.1
+,"Prostate","28010","2017","2017","80-84 years","80-84","Male","M","Black or African American","2054-5",28,3966,706.0
+,"Prostate","28010","2017","2017","85+ years","85+","Male","M","Black or African American","2054-5",25,2919,856.5
+,"Prostate","28010","2022","2022","45-49 years","45-49","Male","M","Black or African American","2054-5",26,31538,82.4
+,"Prostate","28010","2022","2022","50-54 years","50-54","Male","M","Black or African American","2054-5",79,32798,240.9
+,"Prostate","28010","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",131,31661,413.8
+,"Prostate","28010","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",192,30328,633.1
+,"Prostate","28010","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",252,24657,1022.0
+,"Prostate","28010","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",164,16883,971.4
+,"Prostate","28010","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",70,9194,761.4
+,"Prostate","28010","2022","2022","80-84 years","80-84","Male","M","Black or African American","2054-5",28,4579,611.5
+,"Urinary System","29010-29040","2017","2017","45-49 years","45-49","Male","M","Black or African American","2054-5",17,33945,50.1
+,"Urinary System","29010-29040","2017","2017","50-54 years","50-54","Male","M","Black or African American","2054-5",18,33970,53.0
+,"Urinary System","29010-29040","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",18,39325,45.8
+,"Urinary System","29010-29040","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",36,33402,107.8
+,"Urinary System","29010-29040","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",25,35398,70.6
+,"Urinary System","29010-29040","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",42,28397,147.9
+,"Urinary System","29010-29040","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",24,26789,89.6
+,"Urinary System","29010-29040","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",52,20758,250.5
+,"Urinary System","29010-29040","2017","2017","70-74 years","70-74","Female","F","Black or African American","2054-5",19,16394,115.9
+,"Urinary System","29010-29040","2017","2017","70-74 years","70-74","Male","M","Black or African American","2054-5",25,12150,205.8
+,"Urinary System","29010-29040","2017","2017","75-79 years","75-79","Male","M","Black or African American","2054-5",18,6986,257.7
+,"Urinary System","29010-29040","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",18,37794,47.6
+,"Urinary System","29010-29040","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",27,31661,85.3
+,"Urinary System","29010-29040","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",21,36968,56.8
+,"Urinary System","29010-29040","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",34,30328,112.1
+,"Urinary System","29010-29040","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",28,32490,86.2
+,"Urinary System","29010-29040","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",47,24657,190.6
+,"Urinary System","29010-29040","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",19,23622,80.4
+,"Urinary System","29010-29040","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",35,16883,207.3
+,"Urinary System","29010-29040","2022","2022","75-79 years","75-79","Male","M","Black or African American","2054-5",22,9194,239.3
+,"Urinary Bladder, invasive and in situ","29010","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",22,20758,106.0
+,"Urinary Bladder, invasive and in situ","29010","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",19,24657,77.1
+,"Urinary Bladder, invasive and in situ","29010","2022","2022","70-74 years","70-74","Male","M","Black or African American","2054-5",17,16883,100.7
+,"Kidney and Renal Pelvis","29020","2017","2017","55-59 years","55-59","Male","M","Black or African American","2054-5",29,33402,86.8
+,"Kidney and Renal Pelvis","29020","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",19,35398,53.7
+,"Kidney and Renal Pelvis","29020","2017","2017","60-64 years ","60-64","Male","M","Black or African American","2054-5",30,28397,105.6
+,"Kidney and Renal Pelvis","29020","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",21,26789,78.4
+,"Kidney and Renal Pelvis","29020","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",27,20758,130.1
+,"Kidney and Renal Pelvis","29020","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",16,37794,42.3
+,"Kidney and Renal Pelvis","29020","2022","2022","55-59 years","55-59","Male","M","Black or African American","2054-5",24,31661,75.8
+,"Kidney and Renal Pelvis","29020","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",17,36968,46.0
+,"Kidney and Renal Pelvis","29020","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",24,30328,79.1
+,"Kidney and Renal Pelvis","29020","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",19,32490,58.5
+,"Kidney and Renal Pelvis","29020","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",27,24657,109.5
+,"Lymphomas","33011-33042","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",17,35398,48.0
+,"Non-Hodgkin Lymphoma","33041-33042","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",16,35398,45.2
+,"Myeloma","34000","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",16,26789,59.7
+,"Myeloma","34000","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",18,32490,55.4
+,"Miscellaneous","37000","2017","2017","65-69 years","65-69","Male","M","Black or African American","2054-5",28,20758,134.9
+,"Miscellaneous","37000","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",17,36968,46.0
+,"Miscellaneous","37000","2022","2022","60-64 years ","60-64","Male","M","Black or African American","2054-5",19,30328,62.6
+,"Miscellaneous","37000","2022","2022","65-69 years","65-69","Male","M","Black or African American","2054-5",17,24657,68.9
+,"Miscellaneous","37000","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",19,13738,138.3
+,"Male and Female Breast, In Situ","Breast-InSitu","2017","2017","45-49 years","45-49","Female","F","Black or African American","2054-5",20,39034,51.2
+,"Male and Female Breast, In Situ","Breast-InSitu","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",19,39060,48.6
+,"Male and Female Breast, In Situ","Breast-InSitu","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",25,39325,63.6
+,"Male and Female Breast, In Situ","Breast-InSitu","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",28,35398,79.1
+,"Male and Female Breast, In Situ","Breast-InSitu","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",24,26789,89.6
+,"Male and Female Breast, In Situ","Breast-InSitu","2022","2022","45-49 years","45-49","Female","F","Black or African American","2054-5",16,36780,43.5
+,"Male and Female Breast, In Situ","Breast-InSitu","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",23,37993,60.5
+,"Male and Female Breast, In Situ","Breast-InSitu","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",23,37794,60.9
+,"Male and Female Breast, In Situ","Breast-InSitu","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",23,36968,62.2
+,"Male and Female Breast, In Situ","Breast-InSitu","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",33,32490,101.6
+,"Male and Female Breast, In Situ","Breast-InSitu","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",24,23622,101.6
+,"Male and Female Breast, In Situ","Breast-InSitu","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",16,13738,116.5
+,"Female Breast, In Situ","Breast-InSitu-Female","2017","2017","45-49 years","45-49","Female","F","Black or African American","2054-5",20,39034,51.2
+,"Female Breast, In Situ","Breast-InSitu-Female","2017","2017","50-54 years","50-54","Female","F","Black or African American","2054-5",19,39060,48.6
+,"Female Breast, In Situ","Breast-InSitu-Female","2017","2017","55-59 years","55-59","Female","F","Black or African American","2054-5",25,39325,63.6
+,"Female Breast, In Situ","Breast-InSitu-Female","2017","2017","60-64 years ","60-64","Female","F","Black or African American","2054-5",28,35398,79.1
+,"Female Breast, In Situ","Breast-InSitu-Female","2017","2017","65-69 years","65-69","Female","F","Black or African American","2054-5",24,26789,89.6
+,"Female Breast, In Situ","Breast-InSitu-Female","2022","2022","45-49 years","45-49","Female","F","Black or African American","2054-5",16,36780,43.5
+,"Female Breast, In Situ","Breast-InSitu-Female","2022","2022","50-54 years","50-54","Female","F","Black or African American","2054-5",23,37993,60.5
+,"Female Breast, In Situ","Breast-InSitu-Female","2022","2022","55-59 years","55-59","Female","F","Black or African American","2054-5",23,37794,60.9
+,"Female Breast, In Situ","Breast-InSitu-Female","2022","2022","60-64 years ","60-64","Female","F","Black or African American","2054-5",23,36968,62.2
+,"Female Breast, In Situ","Breast-InSitu-Female","2022","2022","65-69 years","65-69","Female","F","Black or African American","2054-5",33,32490,101.6
+,"Female Breast, In Situ","Breast-InSitu-Female","2022","2022","70-74 years","70-74","Female","F","Black or African American","2054-5",24,23622,101.6
+,"Female Breast, In Situ","Breast-InSitu-Female","2022","2022","75-79 years","75-79","Female","F","Black or African American","2054-5",16,13738,116.5
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence"
+"Query Parameters:"
+"Race: Black or African American"
+"States: Tennessee (47)"
+"Year: 2017; 2022"
+"Group By: Cancer Sites; Year; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2022.html for more information."
+"---"
+"Query Date: Sep 14, 2025 2:50:42 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2022, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2024 submission; 2025"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2022.html on Sep 14, 2025 2:50:42 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. Statistics are suppressed to protect personal privacy, for the following conditions: <ol><li> Data are suppressed if the"
+"figures represent fewer than 16 cases for the specific category in the table cell. </li><li> Counts and rates are suppressed for"
+"cells at the Metropolitan Statistical Area (MSA) level for the race categories ""American Indian or Alaska Native"" or ""Asian"
+"or Pacific Islander"" when the specific category's population for rate calculations is less than 50,000 persons. </li><li> Data"
+"are suppressed at the state and MSA level for certain race and ethnicity groups: <ul><li> American Indian or Alaska Native data"
+"are suppressed at the state and MSA level for residents of Illinois, Kansas, New Jersey, and New York; </li><li> Hispanic Asian"
+"or Pacific Islander and Hispanic Black or African American data are suppressed at the state and MSA level for residents of"
+"Kansas; </li><li> Race by ethnicity data are suppressed for state specific statistics for residents of North Dakota and"
+"Wisconsin. Ethnicity data are also suppressed for residents of North Dakota and Wisconsin. </li></ul> </li></ol> States decide"
+"whether to suppress data for specific race and ethnicity categories. The suppression criteria may vary in previous releases of"
+"these data More information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

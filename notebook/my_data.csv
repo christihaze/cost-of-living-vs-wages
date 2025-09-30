@@ -1,0 +1,487 @@
+state,avg_wage,region
+Alabama,41920,South
+Alaska,55760,West
+Arizona,45310,West
+Arkansas,38540,South
+California,55260,West
+Colorado,51180,West
+Connecticut,56280,Northeast
+Delaware,50300,South
+District of Columbia,80150,South
+Florida,42860,South
+Georgia,45420,South
+Hawaii,47740,West
+Idaho,40810,West
+Illinois,49970,Midwest
+Indiana,42070,Midwest
+Iowa,41840,Midwest
+Kansas,42930,Midwest
+Kentucky,40880,South
+Louisiana,40810,South
+Maine,43260,Northeast
+Maryland,54630,South
+Massachusetts,59010,Northeast
+Michigan,46310,Midwest
+Minnesota,49740,Midwest
+Mississippi,37620,South
+Missouri,43640,Midwest
+Montana,40620,West
+Nebraska,42630,Midwest
+Nevada,42800,West
+New Hampshire,48710,Northeast
+New Jersey,54950,Northeast
+New Mexico,43170,West
+New York,57030,Northeast
+North Carolina,44170,South
+North Dakota,45660,Midwest
+Ohio,44750,Midwest
+Oklahoma,41820,South
+Oregon,48100,West
+Pennsylvania,46550,Northeast
+Rhode Island,50780,Northeast
+South Carolina,40580,South
+South Dakota,38820,Midwest
+Tennessee,41300,South
+Texas,46560,South
+Utah,44130,West
+Vermont,46060,Northeast
+Virginia,51670,South
+Washington,54010,West
+West Virginia,39100,South
+Wisconsin,43930,Midwest
+Wyoming,45850,West
+Guam,34500,
+Puerto Rico,28190,
+Virgin Islands,35050,
+Alabama,42510,South
+Alaska,56710,West
+Arizona,46290,West
+Arkansas,39590,South
+California,56840,West
+Colorado,52710,West
+Connecticut,57960,Northeast
+Delaware,50930,South
+District of Columbia,82950,South
+Florida,44050,South
+Georgia,46540,South
+Hawaii,49430,West
+Idaho,41910,West
+Illinois,51500,Midwest
+Indiana,42940,Midwest
+Iowa,43540,Midwest
+Kansas,43950,Midwest
+Kentucky,41760,South
+Louisiana,41260,South
+Maine,44180,Northeast
+Maryland,56120,South
+Massachusetts,60840,Northeast
+Michigan,47350,Midwest
+Minnesota,51330,Midwest
+Mississippi,38300,South
+Missouri,44620,Midwest
+Montana,41440,West
+Nebraska,44170,Midwest
+Nevada,44030,West
+New Hampshire,50180,Northeast
+New Jersey,56030,Northeast
+New Mexico,44160,West
+New York,58910,Northeast
+North Carolina,45280,South
+North Dakota,47130,Midwest
+Ohio,45930,Midwest
+Oklahoma,42760,South
+Oregon,49710,West
+Pennsylvania,47540,Northeast
+Rhode Island,51920,Northeast
+South Carolina,41530,South
+South Dakota,40070,Midwest
+Tennessee,42350,South
+Texas,47770,South
+Utah,45490,West
+Vermont,47620,Northeast
+Virginia,53090,South
+Washington,55810,West
+West Virginia,40250,South
+Wisconsin,45240,Midwest
+Wyoming,46840,West
+Guam,34790,
+Puerto Rico,28740,
+Virgin Islands,37640,
+Alabama,43170,South
+Alaska,57750,West
+Arizona,48160,West
+Arkansas,40530,South
+California,57190,West
+Colorado,54050,West
+Connecticut,59410,Northeast
+Delaware,52200,South
+District of Columbia,85720,South
+Florida,44790,South
+Georgia,47200,South
+Hawaii,52050,West
+Idaho,42240,West
+Illinois,52410,Midwest
+Indiana,43950,Midwest
+Iowa,44730,Midwest
+Kansas,44570,Midwest
+Kentucky,42410,South
+Louisiana,41590,South
+Maine,45300,Northeast
+Maryland,57270,South
+Massachusetts,62110,Northeast
+Michigan,48300,Midwest
+Minnesota,52730,Midwest
+Mississippi,38910,South
+Missouri,45520,Midwest
+Montana,42400,West
+Nebraska,45530,Midwest
+Nevada,45040,West
+New Hampshire,51040,Northeast
+New Jersey,56970,Northeast
+New Mexico,44840,West
+New York,60100,Northeast
+North Carolina,46080,South
+North Dakota,48130,Midwest
+Ohio,46950,Midwest
+Oklahoma,43340,South
+Oregon,51010,West
+Pennsylvania,48760,Northeast
+Rhode Island,53110,Northeast
+South Carolina,42240,South
+South Dakota,40770,Midwest
+Tennessee,43550,South
+Texas,48700,South
+Utah,46460,West
+Vermont,48840,Northeast
+Virginia,53980,South
+Washington,57480,West
+West Virginia,41400,South
+Wisconsin,46270,Midwest
+Wyoming,47650,West
+Guam,35980,
+Puerto Rico,28930,
+Virgin Islands,39770,
+Alabama,43790,South
+Alaska,58710,West
+Arizona,49290,West
+Arkansas,41540,South
+California,59150,West
+Colorado,55820,West
+Connecticut,60780,Northeast
+Delaware,53320,South
+District of Columbia,87920,South
+Florida,46010,South
+Georgia,48280,South
+Hawaii,52900,West
+Idaho,43480,West
+Illinois,53790,Midwest
+Indiana,45290,Midwest
+Iowa,46150,Midwest
+Kansas,45280,Midwest
+Kentucky,43210,South
+Louisiana,42660,South
+Maine,46810,Northeast
+Maryland,58770,South
+Massachusetts,63910,Northeast
+Michigan,49510,Midwest
+Minnesota,54200,Midwest
+Mississippi,39420,South
+Missouri,46460,Midwest
+Montana,43860,West
+Nebraska,46710,Midwest
+Nevada,46170,West
+New Hampshire,52350,Northeast
+New Jersey,58210,Northeast
+New Mexico,45400,West
+New York,61870,Northeast
+North Carolina,47200,South
+North Dakota,49620,Midwest
+Ohio,48220,Midwest
+Oklahoma,44220,South
+Oregon,52000,West
+Pennsylvania,50030,Northeast
+Rhode Island,54810,Northeast
+South Carolina,43210,South
+South Dakota,41800,Midwest
+Tennessee,44660,South
+Texas,49720,South
+Utah,47920,West
+Vermont,50150,Northeast
+Virginia,55310,South
+Washington,59410,West
+West Virginia,42370,South
+Wisconsin,47350,Midwest
+Wyoming,48630,West
+Guam,36550,
+Puerto Rico,29460,
+Virgin Islands,42870,
+,46840,
+,61760,
+,53400,
+,44780,
+,65740,
+,60840,
+,65450,
+,56700,
+,95330,
+,50020,
+,51940,
+,58190,
+,46800,
+,58070,
+,48650,
+,49280,
+,48610,
+,46000,
+,46460,
+,51220,
+,63610,
+,70010,
+,53390,
+,58720,
+,41600,
+,50140,
+,47270,
+,50260,
+,50360,
+,56730,
+,63690,
+,49650,
+,67850,
+,51010,
+,52450,
+,51510,
+,47340,
+,56880,
+,53950,
+,60240,
+,46230,
+,44960,
+,47530,
+,52400,
+,51430,
+,53420,
+,60160,
+,66870,
+,45380,
+,51250,
+,51180,
+,37470,
+,30750,
+,47960,
+,48110,
+,63480,
+,55170,
+,46500,
+,68510,
+,62900,
+,66130,
+,59820,
+,98370,
+,51950,
+,53940,
+,59760,
+,47940,
+,59650,
+,50440,
+,51140,
+,49680,
+,48170,
+,47740,
+,53230,
+,65900,
+,72940,
+,55160,
+,60480,
+,42700,
+,51390,
+,49340,
+,52110,
+,51080,
+,59270,
+,67120,
+,51860,
+,70460,
+,53100,
+,53380,
+,53170,
+,48360,
+,59070,
+,55490,
+,62120,
+,47490,
+,46810,
+,49330,
+,54230,
+,53400,
+,55450,
+,62330,
+,68740,
+,46490,
+,53120,
+,52110,
+,39720,
+,30480,
+,47980,
+,50620,
+,66130,
+,58620,
+,48570,
+,73220,
+,67870,
+,69310,
+,62260,
+,102060,
+,55980,
+,58000,
+,61420,
+,51350,
+,63930,
+,53500,
+,53520,
+,52850,
+,51490,
+,50940,
+,55960,
+,69750,
+,76600,
+,58000,
+,63640,
+,45180,
+,54520,
+,52220,
+,55070,
+,55490,
+,62550,
+,70890,
+,54400,
+,74870,
+,56220,
+,55800,
+,56530,
+,50940,
+,62680,
+,58470,
+,64530,
+,50650,
+,49890,
+,52820,
+,57300,
+,57360,
+,59190,
+,65590,
+,72350,
+,49170,
+,56120,
+,54440,
+,41690,
+,32330,
+,47850,
+,53400,
+,69880,
+,63040,
+,51250,
+,76960,
+,71960,
+,73740,
+,65990,
+,106230,
+,60210,
+,61250,
+,65030,
+,55640,
+,67130,
+,56420,
+,56400,
+,56270,
+,54030,
+,53440,
+,60000,
+,73620,
+,80330,
+,60600,
+,66700,
+,47570,
+,57580,
+,55920,
+,58080,
+,58900,
+,66110,
+,73980,
+,57520,
+,78620,
+,59730,
+,59050,
+,59890,
+,53450,
+,66710,
+,61920,
+,66610,
+,54250,
+,53230,
+,56030,
+,61240,
+,61070,
+,62780,
+,70050,
+,78130,
+,52200,
+,59500,
+,57930,
+,42210,
+,34120,
+,50620,
+,55350,
+,72810,
+,65740,
+,53070,
+,79900,
+,75560,
+,76050,
+,67640,
+,109420,
+,62990,
+,64210,
+,68280,
+,58440,
+,69020,
+,58800,
+,58350,
+,58230,
+,56310,
+,55130,
+,63760,
+,76130,
+,83050,
+,63120,
+,68880,
+,49740,
+,59630,
+,58160,
+,60230,
+,60310,
+,68800,
+,76320,
+,60290,
+,80630,
+,62440,
+,61810,
+,62280,
+,54960,
+,70290,
+,63690,
+,69270,
+,56990,
+,55480,
+,58700,
+,63660,
+,63960,
+,66330,
+,72060,
+,81550,
+,54940,
+,61690,
+,60200,
+,44480,
+,36130,
+,51630,
