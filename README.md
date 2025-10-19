@@ -29,7 +29,7 @@ For this project, I used CPI data from the Bureau of Labor Statistics to figure 
 
 For example, if the CPI for “Food at Home” increased by 10% since 2015, I applied that same percentage to the base cost for that category to estimate what families would be paying in later years. I repeated this for five major categories — food, shelter, energy, and medical care — because they make up most of a household’s regular expenses.
 
-Once those estimated costs were created, I combined them with average wage data to measure whether income growth was keeping up with inflation. The result became the Affordability Index, which shows how far a typical paycheck actually goes after accounting for price changes.
+Once those estimated costs were created, I combined them with average wage data to measure whether income growth was keeping up with inflation. The result became the Affordability Index, which shows how far a typical paycheck actually goes after accounting for price changes. ((Current CPI - Previous CPI) / Previous CPI) * 100 tells you the percentage difference of prices.
 
 ## What the Dashboard Includes (use the information buttons for help throughout)
 
