@@ -11,7 +11,8 @@ The analysis focuses on five major expense areas — food, shelter, energy, and 
 
 •Are certain U.S. regions becoming more or less affordable?
 
-•Which categories — like housing or energy — have seen the biggest price jumps?
+•Which categories, like housing or energy,
+have seen the biggest price jumps?
 
 •How does wage growth compare to inflation during and after the COVID-19 years?
 
@@ -19,7 +20,7 @@ The analysis focuses on five major expense areas — food, shelter, energy, and 
 
 ## What is the CPI?
 
-The Consumer Price Index (CPI) measures how much prices change over time for everyday goods and services — things like food, rent, gas, and medical care. It’s one of the main ways economists track inflation, or how much the cost of living goes up year after year.
+The Consumer Price Index (CPI) measures how much prices change over time for everyday goods and services, things like food, rent, gas, and medical care. It’s one of the main ways economists track inflation, or how much the cost of living goes up year after year.
 
 In this project, CPI values are used to estimate how prices for basic needs have changed from 2015 to 2025. Instead of just showing an abstract index number, I converted the CPI into estimated dollar amounts to make it easier to understand what those changes mean in real life. So, if the CPI for “Shelter” went up 20%, that roughly means housing costs rose by about 20% over that time period.
 
@@ -27,7 +28,7 @@ In this project, CPI values are used to estimate how prices for basic needs have
 
 For this project, I used CPI data from the Bureau of Labor Statistics to figure out how much the cost of basic living categories changed each year. Instead of keeping the CPI as an index number, I turned it into estimated dollar costs using 2015 as the base year. That made it easier to see what people were actually spending over time.
 
-For example, if the CPI for “Food at Home” increased by 10% since 2015, I applied that same percentage to the base cost for that category to estimate what families would be paying in later years. I repeated this for five major categories — food, shelter, energy, and medical care — because they make up most of a household’s regular expenses.
+For example, if the CPI for “Food at Home” increased by 10% since 2015, I applied that same percentage to the base cost for that category to estimate what families would be paying in later years. I repeated this for five major categories — food, shelter, energy, and medical care, because they make up most of a household’s regular expenses.
 
 Once those estimated costs were created, I combined them with average wage data to measure whether income growth was keeping up with inflation. The result became the Affordability Index, which shows how far a typical paycheck actually goes after accounting for price changes. ((Current CPI - Previous CPI) / Previous CPI) * 100 tells you the percentage difference of prices.
 
@@ -40,8 +41,8 @@ Page 2 – Regional Breakdown: Wages and Cost of Living
 Looks at each U.S. region side-by-side to see where paychecks actually stretch the furthest.
 
 Page 3 – Cost Breakdown by Category
-Shows which costs — like housing, food, or energy — have gone up the fastest, especially around COVID.
-
+Shows which costs — like housing, food, or energy,have gone up the fastest, especially around COVID.
+ 
 Page 4 – Real-World Impact: Wage vs Inflation Growth
 Lines up wage growth against inflation to see the gap between what people earn and what they spend.
 
@@ -49,12 +50,44 @@ Page 5 – Regional Wages vs Cost of Living
 Takes a closer look at how average household costs have changed over time in each region.
 
 Page 6 – Affordability Index (2015–2025)
-Uses a custom metric to measure real purchasing power — how far the average income actually goes.
+Uses a custom metric to measure real purchasing power, how far the average income actually goes.
 
 Page 7 – Data Transparency
 Shows exactly where the data came from and how the calculations were made for full transparency.(see this page for source and understanding calculated fields)
 
+## Understanding the Wage Power Gap (as used in this project)
 
+The Wage Power Gap % is wage growth minus inflation growth (2015→2024), but because your CPI covers ~70% of spending, small positives don’t mean “good.” You’re using this traffic-light scale:
 
+🔴 0–5% = Red (struggling)
+Wages only slightly outpaced measured inflation; once you account for the missing 30% of costs, households are likely just breaking even or slipping.
 
+🟡 5–7% = Yellow (tight but improving)
+Wages are pulling ahead a bit more, but real breathing room is still limited.
 
+🟢 ≥7% = Green (meaningful gain)
+Wages outpaced inflation enough that, even after accounting for unmeasured categories, most households likely feel a real improvement.
+
+## Explaining the Affordability Index
+
+The Affordability Index shows how well wages keep up with the cost of living. It compares the average income in each region to the estimated cost of basic living needs like housing, food, energy, and healthcare.
+
+If the index equals 1.0, that means the average paycheck just about covers the essentials, people are basically breaking even.
+When the number is above 1.0, wages are growing faster than everyday costs, giving households a little breathing room.
+If it’s below 1.0, it means costs are climbing faster than paychecks, and people are losing ground on affordability.
+
+Since this project only tracks around 60–70% of total living expenses, even an index slightly above 1.0 doesn’t mean things are easy,it just means people are barely keeping up.
+
+## Key Takeaways
+
+Wages haven’t kept up with real costs.
+Even though paychecks are higher than they were in 2015, inflation in essentials like housing and food has grown faster.
+
+Regional differences are widening.
+Some areas, especially in the South and Midwest, are holding on better than others, while coastal regions feel the biggest squeeze.
+
+Affordability looks better on paper than in reality.
+Since this project only covers about 70% of living expenses, most “comfortable” scores still mean tight budgets.
+
+The cost of living keeps climbing post-COVID.
+Inflation cooled slightly after 2022, but prices never went back down, people are just adjusting to a new normal.
