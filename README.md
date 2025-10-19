@@ -17,7 +17,21 @@ The analysis focuses on five major expense areas — food, shelter, energy, and 
 
 •What does the affordability index say about real purchasing power today?
 
-## What the Dashboard Includes (use the information buttons for help throught)
+## What is the CPI?
+
+The Consumer Price Index (CPI) measures how much prices change over time for everyday goods and services — things like food, rent, gas, and medical care. It’s one of the main ways economists track inflation, or how much the cost of living goes up year after year.
+
+In this project, CPI values are used to estimate how prices for basic needs have changed from 2015 to 2025. Instead of just showing an abstract index number, I converted the CPI into estimated dollar amounts to make it easier to understand what those changes mean in real life. So, if the CPI for “Shelter” went up 20%, that roughly means housing costs rose by about 20% over that time period.
+
+## How I Used CPI in This Project
+
+For this project, I used CPI data from the Bureau of Labor Statistics to figure out how much the cost of basic living categories changed each year. Instead of keeping the CPI as an index number, I turned it into estimated dollar costs using 2015 as the base year. That made it easier to see what people were actually spending over time.
+
+For example, if the CPI for “Food at Home” increased by 10% since 2015, I applied that same percentage to the base cost for that category to estimate what families would be paying in later years. I repeated this for five major categories — food, shelter, energy, and medical care — because they make up most of a household’s regular expenses.
+
+Once those estimated costs were created, I combined them with average wage data to measure whether income growth was keeping up with inflation. The result became the Affordability Index, which shows how far a typical paycheck actually goes after accounting for price changes.
+
+## What the Dashboard Includes (use the information buttons for help throughout)
 
 Page 1 – Data Overview: Cost of Living vs Wages (2015–2025)
 Gives a snapshot of the data — what years, regions, and categories are being compared, and how the big trends look over time.
@@ -38,10 +52,9 @@ Page 6 – Affordability Index (2015–2025)
 Uses a custom metric to measure real purchasing power — how far the average income actually goes.
 
 Page 7 – Data Transparency
-Shows exactly where the data came from and how the calculations were made for full transparency.
+Shows exactly where the data came from and how the calculations were made for full transparency.(see this page for source and understanding calculated fields)
 
 
 
 
-<img width="510" height="264" alt="Screenshot 2025-10-19 173857" src="https://github.com/user-attachments/assets/d10f85df-ebc4-4f66-8cbf-aa46b3282a64" /><img width="549" height="250" alt="Screenshot 2025-10-19 174010" src="https://github.com/user-attachments/assets/a8de59aa-79f1-4439-910f-ff52f04a5151" />
 
