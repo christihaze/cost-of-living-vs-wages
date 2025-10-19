@@ -1,109 +1,47 @@
 # Cost of Living vs Wages (2015–2025)
 ## Overview
 
-This Power BI dashboard explores how the cost of living and wages have changed across the United States from 2015 through 2025.
-I combined Consumer Price Index (CPI) data from the Bureau of Labor Statistics with Occupational Employment and Wage Statistics (OEWS) to see if paychecks have actually kept up with inflation.
+This project looks at how wages across the U.S. have stacked up against the rising cost of living over the past decade. I used real data from the Bureau of Labor Statistics (BLS) and the Occupational Employment and Wage Statistics (OEWS) to see if people’s paychecks have really been keeping up with what it costs to live.
 
-The project looks at five main spending categories — food, shelter, energy, and medical care — which represent about 70% of essential living costs across the Four Census Regions. The goal was to estimate how affordable life really is today compared to pre-COVID years.
+The analysis focuses on five major expense areas — food, shelter, energy, and medical care — which make up about 70% of a household’s typical spending. The goal was to understand what “affordability” looks like across regions, and whether wage growth has truly matched inflation.
 
-## Four Census Regions:
+## Questions This Project Answers
 
-Northeast: Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania
+•How much have wages and living costs changed between 2015 and 2025?
 
-Midwest: Ohio, Indiana, Illinois, Michigan, Wisconsin,Minnesota, Iowa, Missouri, North Dakota, South Dakota, Nebraska, Kansas
+•Are certain U.S. regions becoming more or less affordable?
 
-South: Delaware, Maryland, District of Columbia, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Kentucky, Tennessee, Alabama, Mississippi,Arkansas, Louisiana, Oklahoma, Texas
+•Which categories — like housing or energy — have seen the biggest price jumps?
 
-West: Montana, Idaho, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Washington, Oregon, California, Alaska, Hawaii
+•How does wage growth compare to inflation during and after the COVID-19 years?
 
-## Questions
+•What does the affordability index say about real purchasing power today?
 
-•How much have living costs and wages changed from 2015 to 2025?
+## What the Dashboard Includes (use the information buttons for help throught)
 
-•Which regions have seen the biggest gap between pay and expenses?
+Page 1 – Data Overview: Cost of Living vs Wages (2015–2025)
+Gives a snapshot of the data — what years, regions, and categories are being compared, and how the big trends look over time.
 
-•Which spending categories (like housing or energy) are driving inflation the most?
+Page 2 – Regional Breakdown: Wages and Cost of Living
+Looks at each U.S. region side-by-side to see where paychecks actually stretch the furthest.
 
-•Did wages actually keep up with inflation, or are households falling behind?
+Page 3 – Cost Breakdown by Category
+Shows which costs — like housing, food, or energy — have gone up the fastest, especially around COVID.
 
-•How has the COVID-19 period affected affordability trends?
+Page 4 – Real-World Impact: Wage vs Inflation Growth
+Lines up wage growth against inflation to see the gap between what people earn and what they spend.
 
-•Which regions are the most and least affordable based on the Affordability Index?
+Page 5 – Regional Wages vs Cost of Living
+Takes a closer look at how average household costs have changed over time in each region.
 
-•What does the Wage Power Gap show about real purchasing power across time?
+Page 6 – Affordability Index (2015–2025)
+Uses a custom metric to measure real purchasing power — how far the average income actually goes.
 
-## What is CPI?
-
-CPI = Consumer Price Index
-
-Tracks price changes for everyday items (food, shelter, energy, healthcare)
-Example: Food CPI goes 200 → 210 → +5% increase
-
--The Problem:
-
---cpi is an index its not in dollars(A value of 250 doesnt equal  $250,  it just means prices are 25% higher than the year before.)
-
--My Solution: Estimated Costs
-
-Estimated Cost = Base Cost × (CPI ÷ Base CPI)
-
-## Data Sources
-Bureau of Labor Statistics (BLS)	
-OEWS (Occupational Employment and Wage Statistics)
-Calculated Dataset
-
-## Data Cleaning & Preparation
-
--Cleaned and merged CPI and wage data in Python.
-
--Grouped locations into Census-defined regions.
-
--Aggregated data by year and category.
-
--Adjusted 2025 values using trend-based estimates.
-
--Created calculated columns for:
-
-  --Estimated Cost = Base Cost × (CPI ÷ Base CPI)
-      
-  --Affordability Index = (Avg Wage ÷ Estimated Cost) × 0.7
-  
-  --Wage Power Gap % = Wage Growth % – Inflation Growth %
-
-## Dashboard Pages
-
-Data Overview – Snapshot of the dataset and national trends.
-
-Regional Breakdown – Compares wages and CPI by region.
-
-Cost Breakdown – Looks at how each spending category drives inflation.
-
-Real-World Impact – Highlights wage vs. inflation growth over time.
-
-Regional Wages vs. Costs – Year-by-year view of costs and wages per region.
-
-U.S. Affordability Overview – Calculates the adjusted affordability index.
-
-Data Transparency – Documents data sources, methods, and formulas.
-
-## Key Takeaways
-
-•Wages grew about 40% from 2015–2025, while inflation rose 35% — meaning paychecks only slightly outpaced rising prices.
-
-•The average affordability index (1.03) shows most households are just breaking even.
-
-•Northeast and Midwest remain the most stable regions, while the West faces the highest cost pressures.
-
-•Once all living costs are included (beyond the 70% analyzed here), real affordability would likely fall below 1.0 — meaning costs still outweigh income.
-
-Explaining Cpis:
-
-## Wage data gap solution:
+Page 7 – Data Transparency
+Shows exactly where the data came from and how the calculations were made for full transparency.
 
 
-Problem: CPI goes into 2025, but BLS hasn’t released 2025 wages yet  creating nan values. The wages were only for the regions no national data.
 
-Solution: Since the BLS wage data wasn’t available for every single year — especially 2025 — I filled missing values using the previous year’s numbers or, for 2025, projected them forward using the average growth rate from prior years.
-This way, the dataset stays consistent and realistic without breaking regional trends.
-It’s not perfect, but it gives a reasonable estimate for how wages likely continued into 2025.
+
+<img width="510" height="264" alt="Screenshot 2025-10-19 173857" src="https://github.com/user-attachments/assets/d10f85df-ebc4-4f66-8cbf-aa46b3282a64" /><img width="549" height="250" alt="Screenshot 2025-10-19 174010" src="https://github.com/user-attachments/assets/a8de59aa-79f1-4439-910f-ff52f04a5151" />
 
