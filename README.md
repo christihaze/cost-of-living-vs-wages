@@ -91,3 +91,6 @@ Since this project only covers about 70% of living expenses, most “comfortable
 
 The cost of living keeps climbing post-COVID.
 Inflation cooled slightly after 2022, but prices never went back down, people are just adjusting to a new normal.
+
+## Power BI Dashboard Link
+https://app.powerbi.com/links/cnSaIsMHnW?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
