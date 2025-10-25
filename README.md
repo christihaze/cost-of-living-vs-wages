@@ -93,4 +93,6 @@ The cost of living keeps climbing post-COVID.
 Inflation cooled slightly after 2022, but prices never went back down, people are just adjusting to a new normal.
 
 ## Power BI Dashboard Link
-https://app.powerbi.com/links/cnSaIsMHnW?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
+<a href ="https://app.powerbi.com/view?r=eyJrIjoiOTM1OGY0MjktY2RlNi00OTIwLWI5NjUtZjAyZGNjOWI3M2RiIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9" > Cost-of-Living-vs-Wages-Analysis<a/>
+
+
